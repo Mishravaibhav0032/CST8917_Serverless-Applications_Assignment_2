@@ -1,5 +1,9 @@
 # CST8917_Serverless-Applications_Assignment_2
 # Serverless Alternatives Across Clouds: Azure, AWS, and GCP
+**Course:** CST8917 – Serverless Applications  
+**Assignment:** 2 – Serverless Alternatives Across Clouds: Azure, AWS, and GCP Report  
+**Due Date:** 15th August, 2025  
+**Author:** Vaibhav Mishra (041165850) 
 
 ## Overview
 This analysis examines the primary Azure serverless offerings from the **CST8917 Serverless Applications** curriculum, juxtaposing them against comparable services in **Amazon Web Services (AWS)** and **Google Cloud Platform (GCP)**.  
